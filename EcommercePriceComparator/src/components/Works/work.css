@@ -1,0 +1,52 @@
+/* work.css */
+
+#review {
+  width: 80%;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.slide {
+  display: flex;
+  height: 200px;
+}
+/* work.css */
+
+#box {
+  width: 80%;
+  margin: auto;
+}
+
+.slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px; /* Adjust the height as needed */
+}
+
+.text-container {
+  background-color: rgb(116, 119, 121);
+  color: black;
+  padding: 20px;
+  text-align: left; /* Align text to the left */
+}
+
+.text-container h2 {
+  font-size: 20px;
+  margin-bottom: 12px;
+  color: rgb(197, 129, 129);
+}
+
+.text-container p {
+  font-size: 16px;
+}
+
+
+.text-title {
+  font-size: 3rem;
+  font-weight: 600;
+  padding-top: 3rem;
+  margin-bottom: 1rem;
+}

@@ -1,0 +1,1 @@
+"Empower your purchasing decisions with our React.js-powered platform, enabling seamless product comparison across major retailers like Amazon and Flipkart. Select and compare prices or features, ensuring you invest in the most valuable products tailored to your needs. Join us in revolutionizing online shopping experiences!"
